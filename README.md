@@ -2,7 +2,7 @@
 - 👀 I’m interested in BI, Microsoft SQL, WebDevelopment, Python, Machine Learning
 - 🌱 I’m currently learning JavaScript and Machine Learning
 - 💞️ I’m looking to collaborate on new Projects
-- 📫 How to reach me 
+- 📫 How to reach me steinhauernet@info.de
 
 <!---
 Z3RGONE/Z3RGONE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
